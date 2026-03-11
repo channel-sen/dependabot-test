@@ -1,0 +1,33 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "description": "Test project for Dependabot with intentionally outdated dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "axios": "0.21.1",
+    "moment": "2.24.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "webpack": "4.44.1",
+    "babel-core": "6.26.3",
+    "jquery": "3.4.1",
+    "bootstrap": "4.4.1",
+    "chalk": "3.0.0",
+    "commander": "5.1.0",
+    "dotenv": "7.0.0",
+    "mongoose": "5.9.10",
+    "uuid": "3.4.0"
+  },
+  "devDependencies": {
+    "jest": "25.1.0",
+    "eslint": "6.8.0",
+    "typescript": "3.8.3",
+    "nodemon": "1.19.4"
+  }
+}
