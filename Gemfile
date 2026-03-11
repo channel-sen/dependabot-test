@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '6.0.0'
+gem 'rails', '7.0.10'
 gem 'sinatra', '3.2.0'
 gem 'nokogiri', '1.10.4'
 gem 'devise', '4.7.1'
