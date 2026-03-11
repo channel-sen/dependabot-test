@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '6.0.0'
-gem 'sinatra', '2.0.7'
+gem 'sinatra', '3.2.0'
 gem 'nokogiri', '1.10.4'
 gem 'devise', '4.7.1'
 gem 'sidekiq', '6.0.1'
